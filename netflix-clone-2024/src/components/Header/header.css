@@ -11,7 +11,7 @@
     transition: all 0.5s;
     transition-timing-function: ease-in;
     z-index: 1;
-    /* background-color: red; */
+    
 }
 
 .nav_black {
@@ -42,7 +42,3 @@
     cursor: pointer;
 }
 
-/* .logo{
-    background-color: yellow;
-
-} */
